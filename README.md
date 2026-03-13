@@ -45,3 +45,28 @@ kill -9 PID # kill process
 ping google.com
 ifconfig
 netstat -tulnp
+
+---
+
+## System Information
+
+uname -a     # system information
+whoami       # current user
+uptime       # system uptime
+hostname     # system hostname
+
+---
+
+## Package Management (Ubuntu)
+
+sudo apt update
+sudo apt upgrade
+sudo apt install package_name
+sudo apt remove package_name
+
+---
+
+## File Search
+
+find / -name filename
+grep "word" file.txt
