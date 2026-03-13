@@ -1,2 +1,47 @@
-# linux-command-notes
-Important Linux commands for cloud engineers
+# Linux Commands for Cloud Engineers
+
+This repository contains important Linux commands useful for cloud engineers, DevOps engineers, and system administrators.
+
+---
+
+## File & Directory Management
+
+ls      # list files
+pwd     # show current directory
+cd      # change directory
+cp      # copy files
+mv      # move/rename files
+rm      # delete files
+
+---
+
+## File Permissions
+
+chmod   # change permissions
+chown   # change file ownership
+
+Example:
+chmod 755 file.sh
+
+---
+
+## Disk Usage
+
+df -h   # check disk space
+du -sh  # check folder size
+
+---
+
+## Process Management
+
+ps aux      # show running processes
+top         # system monitor
+kill -9 PID # kill process
+
+---
+
+## Networking Commands
+
+ping google.com
+ifconfig
+netstat -tulnp
