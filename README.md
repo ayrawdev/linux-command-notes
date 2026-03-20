@@ -108,23 +108,13 @@ grep "failed" /var/log/auth.log # search failed login attempts
 ```
 
 ---
+
+
+
 ---
-my name is ayush
-
-# My Phone number
-
-```phone number
-9101912820220282
-```
-```my adreesaa
-s=uwiwn aka ma ,a
-```
-----
-
-
-
 ## Author
 
 Ayush Rawat  
 Aspiring Cloud Engineer  
 Learning Linux, AWS, and DevOps
+---
